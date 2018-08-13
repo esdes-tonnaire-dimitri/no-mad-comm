@@ -94,7 +94,7 @@ input, select, textarea {
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/fond.jpeg"), url("../../images/fond.jpeg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -2672,3 +2672,9 @@ input, select, textarea {
 	.desktop-only{display: none}
 }
 
+.mentions{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
